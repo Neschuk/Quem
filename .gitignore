@@ -1,0 +1,8 @@
+quem
+
+obj/
+*.o
+*.out
+
+*~
+.DS_Store
